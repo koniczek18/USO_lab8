@@ -192,6 +192,6 @@ def zadanie2cont(active):
 
 
 if __name__ == '__main__':
-    zadanie1(False)
+    zadanie1(True)
     zadanie2(True)
     zadanie2cont(True)
